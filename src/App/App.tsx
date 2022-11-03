@@ -59,7 +59,7 @@ const App: React.FC<AppPropType> = ({
 							variant="danger"
 							style={{ display: "flex", justifyContent: "space-between" }}
 							action
-						>
+						> 
 							<div>{todo.title}</div>
 							<div>
 								<i
